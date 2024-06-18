@@ -13,9 +13,18 @@ Software Development: MERN Stack (MongoDB, Express.js, React, Node.js)
 Programming Languages: Java (favorite), JavaScript, Python, C, Ocaml, Rust, R
 Other Skills: MIPS 2000 Assembly Language, Unix Terminal, Git, MySQL
 
+🚀 Currently Learning:
+Building MERN stack projects
+Working on an internship involving WordPress and PHP
+
 📚 Hobbies:
 Reading (Favorite book: All the Light We Cannot See)
 Going to the gym
 Playing the guitar( I am a huge John Mayer fan)
 
+🔗 Connect with Me:
+LinkedIn : https://www.linkedin.com/in/chayanikasinha10/
+Email: csinha@terpmail.umd.edu 
+
+I am Currently learning more about the MERN stack 
 Feel free to check out my repositories and projects. I'm always excited to collaborate on interesting projects and learn new things. Let's connect!
