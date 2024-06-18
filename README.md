@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there I'm Chayanika Sinha👋
 
-<!--
-**CSin007/CSin007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior majoring in Computer Science at the University of Maryland, College Park, with minors in Astronomy and Data Science. I'm passionate about software development, particularly using the MERN stack, and my favorite programming language is Java.
 
-Here are some ideas to get you started:
+🌟 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Major: Computer Science
+Minors: Astronomy and Data Science
+University: University of Maryland, College Park
+
+💻 Interests and Skills:
+Software Development: MERN Stack (MongoDB, Express.js, React, Node.js)
+Programming Languages: Java (favorite), JavaScript, Python, C, Ocaml, Rust, R
+Other Skills: MIPS 2000 Assembly Language, Unix Terminal, Git, MySQL
+
+📚 Hobbies:
+Reading (Favorite book: All the Light We Cannot See)
+Going to the gym
+Playing the guitar( I am a huge John Mayer fan)
+
+Feel free to check out my repositories and projects. I'm always excited to collaborate on interesting projects and learn new things. Let's connect!
