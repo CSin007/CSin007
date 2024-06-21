@@ -10,20 +10,27 @@ I'm a junior majoring in Computer Science at the University of Maryland, College
 
 
 💻 **Interests and Skills**:
+
 - **Software Development**: MERN Stack (MongoDB, Express.js, React, Node.js)
 - **Programming Languages**: Java (favorite), JavaScript, Python, C, Ocaml, Rust, R
 - **Other Skills**: MIPS 2000 Assembly Language, Unix Terminal, Git, MySQL
 
+
 🚀 **Currently Learning**:
+
 - Building MERN stack projects
 - Working on an internship involving WordPress and PHP
 
+
 📚 **Hobbies**:
+
 - Reading (Favorite book: *All the Light We Cannot See*)
 - Going to the gym
 - Playing the guitar
 
+
 🔗 **More About Me**:
+
 - Personal Website: Coming Soon
 - [Email](mailto:csinha@terpmail.umd.edu)
 
