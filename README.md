@@ -26,7 +26,7 @@ I'm a junior majoring in Computer Science at the University of Maryland, College
 
 - Reading (Favorite book: *All the Light We Cannot See*)
 - Going to the gym
-- Playing the guitar
+- Playing guitar
 
 
 🔗 **More About Me**:
