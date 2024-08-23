@@ -5,7 +5,7 @@ I'm a junior majoring in Computer Science at the University of Maryland, College
 🌟 **About Me:**
 
 - **Major**: Computer Science
-- **Minors**: Astronomy and Data Science
+- **Minors**: Astronomy, Data Science
 - **University**: University of Maryland, College Park
 
 
