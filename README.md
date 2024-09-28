@@ -31,7 +31,7 @@ I'm a junior majoring in Computer Science at the University of Maryland, College
 
 🔗 **More About Me**:
 
-- Personal Website: Coming Soon
+- Personal Website: https://personal-portfolio-two-rosy.vercel.app/ 
 - [Email](mailto:csinha@terpmail.umd.edu)
 
 
