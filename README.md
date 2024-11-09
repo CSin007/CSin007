@@ -19,7 +19,7 @@ I'm a junior majoring in Computer Science at the University of Maryland, College
 🚀 **Currently Learning**:
 
 - Building MERN stack projects
-- Working on an internship involving WordPress and PHP
+- Working as a machine learning intern on a project to detect gender biases in article deletion on the wikipedia
 
 
 📚 **Hobbies**:
