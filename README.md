@@ -12,7 +12,7 @@ I'm a junior majoring in Computer Science at the University of Maryland, College
 💻 **Interests and Skills**:
 
 - **Software Development**: MERN Stack (MongoDB, Express.js, React, Node.js)
-- **Programming Languages**: Java (favorite), JavaScript, Python, C, Ocaml, Rust, R
+- **Programming Languages**: Java (favorite), JavaScript, Python, C, Ocaml, Rust, R, PHP
 - **Other Skills**: MIPS 2000 Assembly Language, Unix Terminal, Git, MySQL
 
 
