@@ -1,6 +1,6 @@
 ### Hi there I'm Chayanika Sinha👋
 
-I'm a junior majoring in Computer Science at the University of Maryland, College Park, with minors in Astronomy and Data Science. I'm passionate about software development, particularly using the MERN stack, and my favorite programming language is Java. Feel free to check out my repositories and projects. I'm always excited to collaborate on interesting projects and learn new things. Let's connect!
+I'm a senior majoring in Computer Science at the University of Maryland, College Park, with minors in Astronomy and Data Science. I'm passionate about software development, particularly using the MERN stack, and my favorite programming language is Java. Feel free to check out my repositories and projects. I'm always excited to collaborate on interesting projects and learn new things. Let's connect!
 
 🌟 **About Me:**
 
@@ -18,7 +18,6 @@ I'm a junior majoring in Computer Science at the University of Maryland, College
 
 🚀 **Currently Learning**:
 
-- The ELK stack
 - Working as a NLP research intern to explore how co-writing with AI tools influences opinions
 
 
